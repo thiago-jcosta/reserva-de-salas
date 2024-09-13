@@ -1,15 +1,15 @@
 ﻿
 SET NAMES 'utf8';
 
-DROP DATABASE IF EXISTS reserva;
+DROP DATABASE IF EXISTS sgreserva;
 
-CREATE DATABASE reserva
+CREATE DATABASE sgreserva
 	CHARACTER SET utf8
 	COLLATE utf8_general_ci;
 
 
 
-USE reserva;
+USE sgreserva;
 
 
 CREATE TABLE sala (
